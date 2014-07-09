@@ -2,11 +2,10 @@
 <metadata>
   <groupId>com.molnmyra</groupId>
   <artifactId>template-data</artifactId>
-  <version>1.0-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130819092853</lastUpdated>
+    <lastUpdated>20140709121415</lastUpdated>
   </versioning>
 </metadata>

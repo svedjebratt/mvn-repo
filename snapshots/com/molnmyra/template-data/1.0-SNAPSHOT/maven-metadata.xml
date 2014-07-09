@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.molnmyra</groupId>
   <artifactId>template-data</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130819.092853</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20140709.121415</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20130819092853</lastUpdated>
+    <lastUpdated>20140709121415</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20140709.121415-2</value>
+        <updated>20140709121415</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20140709.121415-2</value>
+        <updated>20140709121415</updated>
+      </snapshotVersion>
+    </snapshotVersions>
   </versioning>
 </metadata>
